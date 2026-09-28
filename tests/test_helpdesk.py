@@ -1,5 +1,5 @@
 import pytest
- 
+
 from helpdesk import build_ticket, calculate_sla, remaining_hours
  
  
